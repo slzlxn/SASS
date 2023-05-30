@@ -10,3 +10,20 @@
 ![image](https://github.com/slzlxn/SASS/assets/105650300/b51c96e4-e9f3-4221-828d-869148853152)
 # savePath:null 이면 scss파일과 같은 위치에 style.css가 생긴다
 ![image](https://github.com/slzlxn/SASS/assets/105650300/0d64ef5e-5e68-440c-a71a-096a9216dc0e)
+
+# savePath:~/css 이면 style.scss과 같은 위치에 style.css가 생긴다
+![image](https://github.com/slzlxn/SASS/assets/105650300/1a5c8b90-14b5-4725-8a5d-9d14996c8062)
+
+# savePath:~/../css 이면 scss파일이 있는 폴더의 상위폴더에 생성
+![image](https://github.com/slzlxn/SASS/assets/105650300/97556ca7-9bf2-4af9-b0fd-9dd161dbb998)
+
+# 주석처리방법
+# //주석처리방법은 css로 컴파일되지 않는다
+# /* */ 주석처리방법은  css로 컴파일 된다 
+![image](https://github.com/slzlxn/SASS/assets/105650300/059a375a-a156-4b39-ba7e-a48a0d541ef2)
+
+# 변수만들기 --> $로 시작함,(영문, 숫자, -, _)만 사용할 수 있음. 숫자로 시작할 수 없음
+![image](https://github.com/slzlxn/SASS/assets/105650300/b14994ee-7424-46af-aec6-20b1804c0ba5)
+
+# .wrap{ & h1{} } = .wrap h1 {}  --> &하위요소   &::after ->.wrap::after
+![image](https://github.com/slzlxn/SASS/assets/105650300/7087ed85-db9a-4cc1-a9ed-fca821bef066)
