@@ -27,3 +27,12 @@
 
 # .wrap{ & h1{} } = .wrap h1 {}  --> &하위요소   &::after ->.wrap::after
 ![image](https://github.com/slzlxn/SASS/assets/105650300/7087ed85-db9a-4cc1-a9ed-fca821bef066)
+
+# partials(파샬)
+ --관련된 것끼리 묶어서 분리/ 소스에 반복되는 부분들을 분리 부산시켜서 모듈화 시키는 기능
+ 
+  * Partials의 파밍명은 _로 시작하며 
+  * 불러들일때는 @import '파일명' 이때 파일명에 _는 포함시키지 않고, 확장명도 포함시키지 않는다
+
+   Scss는 _로 시작하는 파일은 컴파일하지 않는다.
+   ![image](https://github.com/slzlxn/SASS/assets/105650300/60280c72-cf24-4c92-bea2-1df4c25fe734)
