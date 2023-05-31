@@ -36,13 +36,16 @@
 
    Scss는 _로 시작하는 파일은 컴파일하지 않는다.
    ![image](https://github.com/slzlxn/SASS/assets/105650300/60280c72-cf24-4c92-bea2-1df4c25fe734)
-   ## @import --> 변수가 중복될때는 아래의 것이 적용된다.
+   
+## @import --> 변수가 중복될때는 아래의 것이 적용된다.
    ![image](https://github.com/slzlxn/SASS/assets/105650300/e99c6f05-08a4-4129-b194-9122bebfbf36)
 
    
-   ## @use --> 변수이름이 같을때 에러발생. @use를 사용할때는 앞에 파일명을 추가해서 파일명.변수명
+## @use --> 변수이름이 같을때 에러발생. @use를 사용할때는 앞에 파일명을 추가해서 파일명.변수명
    ![image](https://github.com/slzlxn/SASS/assets/105650300/4c2b5783-9bbd-4910-bef9-f247fe88b8df)
    
-   ## as 뒤에 별명을 붙여서 사용할 수 있다.
+## as 뒤에 별명을 붙여서 사용할 수 있다.
    ![image](https://github.com/slzlxn/SASS/assets/105650300/5ce98abf-6002-40da-a44d-d030d76eb56a)
 
+## @forward는 파샬을 묶어줌 style.scss에서는 _index.scss를 호출하여 사용함
+![image](https://github.com/slzlxn/SASS/assets/105650300/f8910110-5e39-473d-a731-00bbd771e289)
