@@ -68,4 +68,7 @@
 
 ![image](https://github.com/slzlxn/SASS/assets/105650300/769762d5-0faa-4c6e-af1f-89fe09f1e3cf)
 
+## extend
+![image](https://github.com/slzlxn/SASS/assets/105650300/23330016-00ff-4c84-8860-88d6a61b9c7a)
+
 
