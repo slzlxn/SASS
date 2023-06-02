@@ -66,3 +66,6 @@
 ## 함수
 ![image](https://github.com/slzlxn/SASS/assets/105650300/25521d15-33c8-41da-a0b8-80a3c48be60c)
 
+![image](https://github.com/slzlxn/SASS/assets/105650300/769762d5-0faa-4c6e-af1f-89fe09f1e3cf)
+
+
