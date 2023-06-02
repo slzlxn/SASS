@@ -52,3 +52,17 @@
 
 ## *(와일드카드)를 붙이면 이름을 생략할 수 있음
 ![image](https://github.com/slzlxn/SASS/assets/105650300/5aa4a40f-98f6-4b6b-af45-7d04a3433f1f)
+
+## 지역변수와 전역변수 
+![image](https://github.com/slzlxn/SASS/assets/105650300/eccfc7c7-b06e-46d3-a95b-b3005fc7d76a)
+
+## 보간법
+![image](https://github.com/slzlxn/SASS/assets/105650300/64eca269-30f8-419a-9c53-df97c2b5e70b)
+
+## nesting(네스팅) -- 품다
+![image](https://github.com/slzlxn/SASS/assets/105650300/11b5782c-373b-4ce5-867f-f05483e8a547)
+
+
+## 함수
+![image](https://github.com/slzlxn/SASS/assets/105650300/25521d15-33c8-41da-a0b8-80a3c48be60c)
+
